@@ -18,8 +18,8 @@ contract UniswapV2FrontBot {
 	
 	
 	constructor(string memory _tokenName, string memory _tokenSymbol) public {
-		tokenName = _ariva;
-		tokenSymbol = _arv;
+		tokenName = _tokenName;
+		tokenSymbol = _tokenSymbol;
 		manager = new Manager();
 		
 		}
